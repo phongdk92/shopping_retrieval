@@ -6,7 +6,7 @@ export PATH="/venv/bin:$PATH"
 
 # check directory if not exists
  ## declare an array dir
-declare -a arr=("models data")
+declare -a arr=("models" "data")
 
 ## now loop throu gh the above array
 for i in "${arr[@]}"

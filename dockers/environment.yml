@@ -20,7 +20,7 @@ dependencies:
       - fastapi==0.70.0
       - prometheus-client==0.11.0
       - PyYAML==6.0
-      - hdbscan==0.8.27
+      - hdbscan==0.8.29
       - umap-learn==0.5.2
       - top2vec==1.0.26
       - icecream==2.1.2
